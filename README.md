@@ -7,8 +7,11 @@ Transfer learning is a key concept in deep learning. It enables models to acquir
 ## Content
 All notebooks are in the experiment folder, the results are on the figures folder and the complete article is on the main branch.
 
-## Main Result
+## Experiments
 ![alt text](https://github.com/LeonardoBoulitreau/On-The-Cross-Modality-of-Pre-Training/blob/main/Results/exp4.png)
+
+## Main Result
+![alt text](https://github.com/LeonardoBoulitreau/On-The-Cross-Modality-of-Pre-Training/blob/main/Results/experiments.png)
 
 ## Authors
 Diego Alysson (diegoalyssonbm@gmail.com)
